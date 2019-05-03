@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Future",
+    "slug": "Future",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "",
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyCkIu5afbaKT5fBTh0G3Z0qnc7RvitAwh0",
+        "authDomain": "future-app-react-native.firebaseapp.com",
+        "databaseURL": "https://future-app-react-native.firebaseio.com",
+        "projectId": "future-app-react-native",
+        "storageBucket": "future-app-react-native.appspot.com",
+        "messagingSenderId": "498269232147"
+      },
+      "facebook": {
+        "appId": "314109052633824"
+      }
+    }
+  }
+}
