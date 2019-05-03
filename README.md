@@ -21,7 +21,8 @@ company, the location, the salary and the job description. Once the announcement
 ### User profile
 The logged-in user has a profile page on the application. Indeed, this page consists of the following: an avatar, an email address, the location, 
 the button or is saved the curriculum vitae, the website (if it has one), the name of the post for which the user is competent, a description and 
-a button to disconnect from the application.
+a button to disconnect from the application. 
+![alt-tag](https://nsa40.casimages.com/img/2019/05/02/190502092712498411.png)
 ## Graphical charter
 ### The Logo
 The logo has been designed by Aude PONS. The chosen writing fonts are [Berlin Sans FB](http://fontsgeek.com/fonts/Berlin-Sans-FB-Regular) and 
